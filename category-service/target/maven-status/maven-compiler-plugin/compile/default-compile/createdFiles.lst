@@ -1,0 +1,7 @@
+com/epinmarketplace/categoryservice/controller/AdminCategoryController.class
+com/epinmarketplace/categoryservice/service/CategoryService.class
+com/epinmarketplace/categoryservice/repository/CategoryRepository.class
+com/epinmarketplace/categoryservice/config/SecurityConfig.class
+com/epinmarketplace/categoryservice/CategoryServiceApplication.class
+com/epinmarketplace/categoryservice/controller/CategoryController.class
+com/epinmarketplace/categoryservice/entity/Category.class

@@ -1,0 +1,7 @@
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/CategoryServiceApplication.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/config/SecurityConfig.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/controller/AdminCategoryController.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/controller/CategoryController.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/entity/Category.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/repository/CategoryRepository.java
+/Users/ahmetc/Desktop/java/epin/category-service/src/main/java/com/epinmarketplace/categoryservice/service/CategoryService.java
